@@ -4,15 +4,15 @@
 
 .custom-scrollbar::-webkit-scrollbar {
   width: 10px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .custom-scrollbar::-webkit-scrollbar-track {
   background-color: #31343d;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .custom-scrollbar::-webkit-scrollbar-thumb {
   background-color: #6528c6;
-  border-radius: 5px;
+  border-radius: 10px;
 }
